@@ -17,8 +17,8 @@ The goal is to make early ideas fast to sketch, easy to inspect, and realistic e
 | Tool | What it is | Use it for |
 | --- | --- | --- |
 | [auto-git](https://github.com/async/auto-git) | AI agent Git workflow helpers for intent-based commits, release checks, and repository handoffs. | Split, verify, checkpoint, and land agent-assisted changes while preserving reviewable git intent. |
-| [api-contract](https://github.com/async/api-contract) | Semantic API contract surfaces, ledgers, and impact checks for Async packages. | Track feature-level compatibility and catch breaking changes before package, docs, or test drift reaches a release. |
-| [claim](https://github.com/async/claim) | Deterministic documentation-claim coverage checks for tests and AI-assisted release loops. | Keep README promises anchored to source text and mapped to real tests. |
+| [api-contract](https://github.com/async/api-contract) | API compatibility ledgers and impact checks for Async packages. | Track exported features and consumer usage so breaking API changes are caught before release. |
+| [claim](https://github.com/async/claim) | Documentation-claim coverage checks for tests and AI-assisted release loops. | Keep README and docs promises anchored to source text and mapped to real tests. |
 
 ## Direction
 
