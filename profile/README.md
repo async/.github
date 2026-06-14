@@ -11,8 +11,6 @@ The goal is to make early ideas fast to sketch, easy to inspect, and realistic e
 | [db](https://github.com/async/db) | Alpha | Gradual data workflow from JSON fixtures to generated types, local APIs, writable stores, and real persistence. | Move from local prototype data to typed APIs and durable state in small steps. |
 | [web](https://github.com/async/web) | Experimental | Web app, router, and Request -> Response runtime packages for composing browser, API, edge, and data-backed apps. | Start with `@async/web`, then drop to router or runtime layers when routing, placement, cache behavior, or provider hooks need more control. |
 | [pipeline](https://github.com/async/pipeline) | Beta | Local-first TypeScript pipeline engine for typed task graphs, run evidence, cache inputs, and thin generated GitHub Actions workflows. | Run the same verification workflow on a laptop and in CI while keeping workflow logic inspectable in `pipeline.ts`. |
-| [framework](https://github.com/async/framework) | Experimental | Signal-based framework experiments for reactive web apps, custom elements, async handlers, and runtime-first UI. | Explore delegated `on:<event>` handlers, local and remote handler registries, resumability experiments, and signal-based projections. |
-| [framework-demo](https://github.com/async/framework-demo) | Demo | Public demos and runtime examples for the framework work. | See the framework ideas in running examples before pulling the pieces into a real app. |
 
 ## Direction
 
